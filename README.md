@@ -1,5 +1,5 @@
 # Unreliable
-> Everyone tells the truth. Not everyone knows it.
+> Everyone tells the truth, not everyone knows it.
 
 Hi, I'm Gokmen Dursun, from Lyon, France. Unreliable is a multiplayer social deduction game I'm building from scratch while learning to code, as the centerpiece of my Ivy League application and my first real engineering project.
 
