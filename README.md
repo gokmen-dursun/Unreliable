@@ -70,6 +70,6 @@ The goal isn't to ship a commercial game. The goal is to prove I can identify a 
 
 **Gokmen Dursun** — Lyon, France
 
-I'm not a developer yet. I'm learning as I build. Every commit on this repo is proof that you don't need to wait until you're ready — you just need a problem worth solving.
+I'm not a developer yet but I'm learning as I build. Every commit on this repo is proof that you don't need to wait until you're ready but you just need a problem worth solving.
 
 📍 Lyon, France — building since July 2026
